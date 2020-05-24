@@ -1,4 +1,3 @@
 theme: jekyll-theme-minimal
-description: Utiliser Docker depuis une VM de Virtualbox
 markdown: kramdown
-title: mon titre
+title: Docker sur Virtualbox
