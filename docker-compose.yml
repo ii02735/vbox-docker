@@ -13,4 +13,4 @@ services:
                        - "/bin/sh"
                        - "-c"
                        - "bundle install && bundle exec jekyll serve --host 0.0.0.0"
-                stdin_open: true          
+                restart: on-failure         
